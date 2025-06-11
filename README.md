@@ -10,7 +10,7 @@
 🤝 I’m looking for Job<br>
 🌱 I’m currently learning Artificial intelligence (AI).<br>
 💬 Ask me about Database.<br>
-📮 How to reach me "shrutayuwankhade1111@gamil.com"<br>
+📮 How to reach me "shrutayuwankhade1111@gmail.com"<br>
 ⚡ Fun fact "I am Funny"<br>
 <br>
 
