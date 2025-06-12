@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/88adc2d2-62ba-4a5e-bc96-a73d44c443dc)  
+![Header](https://github.com/user-attachments/assets/88adc2d2-62ba-4a5e-bc96-a73d44c443dc)
 
 <h1 aling="centre"> Hi 👋, I'm Shrutayu Wankhade</h1>
 <h2 align="centre"> A passionate Computer Engineer</h2>
