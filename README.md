@@ -11,7 +11,7 @@
 🌱 I’m currently learning Artificial intelligence (AI).<br>
 💬 Ask me about Database.<br>
 📮 How to reach me "shrutayuwankhade1111@gmail.com"<br>
-⚡ Fun fact "I am Funny"<br>
+💻In my free time, I enjoy reading blogs on latest technologies and experimenting with emerging technologies like blockchain and machine learning, and I often take online courses to deepen my understanding.<br>
 <br>
 
 ### 🌐 Socials:
@@ -30,3 +30,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=LinguaByte&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### Let's Connect!
+Feel free to reach out to me at shrutayuwankhade1111@gmail.com.
