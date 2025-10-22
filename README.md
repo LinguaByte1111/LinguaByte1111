@@ -12,6 +12,7 @@
 💬 Ask me about Database.<br>
 📮 How to reach me "shrutayuwankhade1111@gmail.com"<br>
 💻In my free time, I enjoy reading blogs on latest technologies and experimenting with emerging technologies like blockchain and machine learning, and I often take online courses to deepen my understanding.<br>
+⛰️ On 75 Hard Gen AI Challenge<br>
 <br>
 
 ### 🌐 Socials:
