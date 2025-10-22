@@ -6,7 +6,7 @@
 
 ### 💫 About Me:
 
-🔭 I’m currently working on Data Analytics and Quality Assurance<br>
+🔭 I’m currently looking for job<br>
 🤝 I’m looking for Job<br>
 🌱 I’m currently learning Artificial intelligence (AI).<br>
 💬 Ask me about Database.<br>
