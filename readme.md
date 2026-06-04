@@ -93,11 +93,12 @@ End-to-end data pipelines using Python, MySQL, and Excel. Built interactive dash
 ## GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LinguaByte1111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinguaByte1111&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LinguaByte1111&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=LinguaByte1111&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinguaByte1111&layout=compact&theme=default&hide_border=true)
-
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LinguaByte1111&theme=tokyonight&hide_border=true" width="55%" />
 </div>
 
 ---
