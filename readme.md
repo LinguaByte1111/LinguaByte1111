@@ -49,7 +49,7 @@ CNN-based facial expression recognition at ~87% accuracy on live webcam input. T
  
 ---
  
-**[Human Activity Recognition — Live Video](https://github.com/LinguaByte1111/Human-Activity-Recognition)**
+**[Human Activity Recognition - Live Video](https://github.com/LinguaByte1111/Human-Activity-Recognition)**
 `Python` `TensorFlow` `Keras` `OpenCV`
  
 Real-time activity classification from live webcam feed using a CNN. Detects 6 activity classes: standing, sitting, sleeping, walking, stair climbing, idle. Processes each frame at 150×150 with softmax classification.
@@ -65,7 +65,7 @@ Interactive real-time weather dashboard covering 8 Indian cities. Displays curre
  
 ---
  
-**[Netflix Content Analysis — Tableau](https://github.com/LinguaByte1111/netflix-visualization-project-Tableau)**
+**[Netflix Content Analysis - Tableau](https://github.com/LinguaByte1111/netflix-visualization-project-Tableau)**
 `Tableau` `Excel` `Kaggle Dataset`
  
 Interactive dashboard analyzing Netflix's global content catalog. Covers content type distribution, release year trends, genre popularity, country-wise production, and ratings breakdown. Built on Kaggle's Netflix Titles dataset.
@@ -74,7 +74,7 @@ Interactive dashboard analyzing Netflix's global content catalog. Covers content
  
 ### 📱 Systems / Mobile
  
-**[XOXA — Real-Time Messaging App](https://github.com/LinguaByte1111/XOXA)**
+**[XOXA - Real-Time Messaging App](https://github.com/LinguaByte1111/XOXA)**
 `Java/Kotlin` `Android` `MongoDB` `Jetpack`
  
 Android-based real-time messaging app with client-server architecture. Supports private and group chats, file sharing, and emoji. Handles 100 simultaneous conversations. Custom Android server — no third-party backend dependency.
@@ -105,18 +105,18 @@ Android-based real-time messaging app with client-server architecture. Supports 
 
 ## Work Experience
 
-**QA Intern — Pitchmatter** *(Dubai, UAE · Remote · Apr–Jul 2025)*
+**QA Intern - Pitchmatter** *(Dubai, UAE · Remote · Apr–Jul 2025)*
 Built Python + Selenium automation reducing manual testing effort by ~35%. Managed defect lifecycle across 40+ tracked issues using Jira in an Agile environment. Leveraged OpenAI APIs for AI-assisted code generation.
 
-**Data Analytics Intern — Twilearn** *(Pune, India · Remote · Nov 2024–Feb 2025)*
+**Data Analytics Intern - Twilearn** *(Pune, India · Remote · Nov 2024–Feb 2025)*
 End-to-end data pipelines using Python, MySQL, and Excel. Built interactive dashboards in Tableau and Power BI for business decision-making.
 
 ---
 
 ## Certifications
 
-- 🎓 **IIT Ropar** — Major in Artificial Intelligence *(Sept 2024 – Jul 2026)*
-- ☁️ **Oracle Cloud Infrastructure 2025** — Certified AI Foundations Associate
+- 🎓 **IIT Ropar** - Major in Artificial Intelligence *(Sept 2024 – Jul 2026)*
+- ☁️ **Oracle Cloud Infrastructure 2025** - Certified AI Foundations Associate
 
 ---
 
