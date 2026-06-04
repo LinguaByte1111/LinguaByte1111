@@ -22,33 +22,63 @@ Currently open to roles in **AI/ML Engineering**, **LLM/GenAI**, **MLOps**, or *
 
 ---
 
-## Featured Projects
-
-### 🔍 Company Policy RAG Bot
-> Python · LangChain · ChromaDB · Cohere · FastAPI · React.js · Render · Vercel
-
-End-to-end RAG chatbot that lets employees query company policy PDFs in plain English. Processes 100+ page documents in under 10 seconds. Hallucination prevention via custom prompt engineering with exact page-number attribution.
-
-**[[Live Demo]](https://company-policy-rag-bot.vercel.app)** · **[[Repo]](#)**
-
+## Projects
+ 
+### 🤖 AI / LLM / NLP
+ 
+**[Company Policy RAG Bot](https://company-policy-rag-bot.vercel.app)**
+`Python` `LangChain` `ChromaDB` `Cohere` `FastAPI` `React.js`
+ 
+End-to-end RAG chatbot for querying company policy PDFs in plain English. Processes 100+ page documents in under 10 seconds. Custom prompt engineering prevents hallucinations with exact page-number attribution. Deployed on Render + Vercel.
+ 
 ---
-
-### 🌐 Multi-Lingua Emotion-Aware Translation System
-> Python · FastAPI · React.js · Tailwind CSS · Google Translator API · Edge TTS
-
-Multilingual NLP system supporting 30+ languages with real-time speech synthesis and emotion-aware translation. Sub-second response latency. Emotion detection pipeline classifies tone and dynamically adjusts translation style.
-
-**[[Repo]](#)**
-
+ 
+**[Multi-Lingua Emotion-Aware Translation System](#)**
+`Python` `FastAPI` `React.js` `Tailwind CSS` `Google Translator API` `Edge TTS`
+ 
+Multilingual NLP system supporting 30+ languages with real-time speech synthesis. Emotion detection pipeline classifies tone and dynamically adjusts translation output style. Sub-second response latency.
+ 
 ---
-
-### 🎭 Emotion & Gesture Recognition System
-> Python · TensorFlow · Keras · OpenCV · Mediapipe · Haar Cascade
-
-CNN-based facial expression recognition at ~87% accuracy on live webcam input. Trained on 30,000+ image dataset with augmentation. Contributed to a published research paper on real-time emotion detection.
-
-**[[Repo]](#)**
-
+ 
+### 👁️ Computer Vision / Deep Learning
+ 
+**[Emotion & Gesture Recognition System](#)**
+`Python` `TensorFlow` `Keras` `OpenCV` `Mediapipe` `Haar Cascade`
+ 
+CNN-based facial expression recognition at ~87% accuracy on live webcam input. Trained on 30,000+ image dataset with augmentation. Integrated Mediapipe for gesture recognition. Contributed to a published research paper.
+ 
+---
+ 
+**[Human Activity Recognition — Live Video](https://github.com/LinguaByte1111/Human-Activity-Recognition)**
+`Python` `TensorFlow` `Keras` `OpenCV`
+ 
+Real-time activity classification from live webcam feed using a CNN. Detects 6 activity classes: standing, sitting, sleeping, walking, stair climbing, idle. Processes each frame at 150×150 with softmax classification.
+ 
+---
+ 
+### 📊 Data & Visualization
+ 
+**[Weather Power BI Dashboard](#)**
+`Power BI` `REST APIs` `Custom Visuals`
+ 
+Interactive real-time weather dashboard covering 8 Indian cities. Displays current conditions, 7-day forecast, AQI breakdown (PM2.5, O₃, SO₂, CO, NO₂), sunrise/sunset, and rain probability. Auto-refreshes from live weather API.
+ 
+---
+ 
+**[Netflix Content Analysis — Tableau](https://github.com/LinguaByte1111/netflix-visualization-project-Tableau)**
+`Tableau` `Excel` `Kaggle Dataset`
+ 
+Interactive dashboard analyzing Netflix's global content catalog. Covers content type distribution, release year trends, genre popularity, country-wise production, and ratings breakdown. Built on Kaggle's Netflix Titles dataset.
+ 
+---
+ 
+### 📱 Systems / Mobile
+ 
+**[XOXA — Real-Time Messaging App](https://github.com/LinguaByte1111/XOXA)**
+`Java/Kotlin` `Android` `MongoDB` `Jetpack`
+ 
+Android-based real-time messaging app with client-server architecture. Supports private and group chats, file sharing, and emoji. Handles 100 simultaneous conversations. Custom Android server — no third-party backend dependency.
+ 
 ---
 
 ## Tech Stack
