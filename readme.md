@@ -14,9 +14,9 @@
 
 ## About
 
-Computer Engineering graduate building production-ready AI systems — from LLM pipelines and RAG architectures to computer vision models and data-driven backends. I focus on shipping things that actually work: clean APIs, grounded outputs, deployable code.
+Computer Engineering graduate building production-ready AI systems - from LLM pipelines and RAG architectures to computer vision models and data-driven backends. I focus on shipping things that actually work: clean APIs, grounded outputs, deployable code.
 
-Certified in AI by **IIT Ropar** and **Oracle Cloud Infrastructure (2025)**. AI moves fast — I treat keeping up with it as part of the job, not a side activity.
+Certified in AI by **IIT Ropar** and **Oracle Cloud Infrastructure (2025)**. AI moves fast - I treat keeping up with it as part of the job, not a side activity.
 
 Currently open to roles in **AI/ML Engineering**, **LLM/GenAI**, **MLOps**, or **Backend Engineering with AI integration**.
 
