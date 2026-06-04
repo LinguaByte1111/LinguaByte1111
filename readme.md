@@ -99,7 +99,7 @@ Android-based real-time messaging app with client-server architecture. Supports 
 `Python` `SQL` `Java`
 
 **Tools**
-`Git` `GitHub` `Jira` `Jupyter` `Google Colab` `Figma`
+`Git` `GitHub` `Jira` `Jupyter` `Google Colab` `Figma` `ClickUp` 
 
 ---
 
