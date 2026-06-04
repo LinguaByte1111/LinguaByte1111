@@ -33,7 +33,7 @@ End-to-end RAG chatbot for querying company policy PDFs in plain English. Proces
  
 ---
  
-**[Multi-Lingua Emotion-Aware Translation System](#)**
+**[Multi-Lingua Emotion-Aware Translation System](https://github.com/LinguaByte1111/Multi-Lingua-Emotion-Aware-Translation-System)**
 `Python` `FastAPI` `React.js` `Tailwind CSS` `Google Translator API` `Edge TTS`
  
 Multilingual NLP system supporting 30+ languages with real-time speech synthesis. Emotion detection pipeline classifies tone and dynamically adjusts translation output style. Sub-second response latency.
@@ -42,7 +42,7 @@ Multilingual NLP system supporting 30+ languages with real-time speech synthesis
  
 ### 👁️ Computer Vision / Deep Learning
  
-**[Emotion & Gesture Recognition System](#)**
+**[Emotion & Gesture Recognition System](https://github.com/LinguaByte1111/Emotion-Gesture-Recognition)**
 `Python` `TensorFlow` `Keras` `OpenCV` `Mediapipe` `Haar Cascade`
  
 CNN-based facial expression recognition at ~87% accuracy on live webcam input. Trained on 30,000+ image dataset with augmentation. Integrated Mediapipe for gesture recognition. Contributed to a published research paper.
@@ -58,7 +58,7 @@ Real-time activity classification from live webcam feed using a CNN. Detects 6 a
  
 ### 📊 Data & Visualization
  
-**[Weather Power BI Dashboard](#)**
+**[Weather Power BI Dashboard](https://github.com/LinguaByte1111/Weather_PowerBI_Dashboard)**
 `Power BI` `REST APIs` `Custom Visuals`
  
 Interactive real-time weather dashboard covering 8 Indian cities. Displays current conditions, 7-day forecast, AQI breakdown (PM2.5, O₃, SO₂, CO, NO₂), sunrise/sunset, and rain probability. Auto-refreshes from live weather API.
